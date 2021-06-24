@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Stella&fontAlign=70&fontAlignY=40&animation=t]]winkling)      
 
-<h3 align ="center"> 🕗Welcome!🕞 </h3>
+<h3 align ="center"> 🕗Welcome!!🕞 </h3>
 <div align = "center">          
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnicusStella%2Fhit-counter&count_bg=%23D86696&title_bg=%237C6D75&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-<h3 align="center">📧MY Contact📧</h3>
+
+<h3 align="center">📧My Contact📧</h3>
 <a href="unicusstella@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
 
 <h3 align="center">📈Git States📈</h3>
