@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Stella&fontAlign=70&fontAlignY=40&animation=t]]winkling)      
 
-<h3 align ="center"> 🕗WELCOME!!🕞 </h3>
+<h3 align ="center"> 🎊WELCOME!🎊 </h3>
 <div align = "center">          
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnicusStella%2Fhit-counter&count_bg=%23fcb6d0&title_bg=%237C6D75&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
